@@ -1,7 +1,5 @@
-# Classification-Restaurant-using-Naive-Bayes-Method
-classifying comments given to restaurants using the naive bayes method and comparing the results of lemmatization, stemming, gaussian, and multinomial with python.
-
-compare results between lemmatization-gaussian, lemmatization-multinomial, stemming-gaussian, stemming-multinomial.
+# Restaurant Review Classification
+Classifying the reviews given to restaurants into positive or negative classes using the naive bayes method and  compare results between lemmatization-gaussian, lemmatization-multinomial, stemming-gaussian, stemming-multinomial.
 
 gaussian:
 - calculate the feature probability of each term
